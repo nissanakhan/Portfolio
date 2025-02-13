@@ -1,0 +1,50 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+h1 {
+    color: #0073e6;
+}
+
+/* Paragraphs */
+p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+/* Navigation Links */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
+
+a {
+    text-decoration: none;
+    color: #0073e6;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #005bb5;
+}
+
+/* Add some spacing */
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
